@@ -1,48 +1,30 @@
-# [Nom du projet]
+# FrontEnd-Mentor: Stats preview card component
 
-> [Phrase d'accroche en une ligne : ce que fait le projet et pourquoi.]
+> Stats Preview Card Component - Challenge Frontend Mentor. Carte de statistiques moderne et responsive réalisée avec HTML5 et CSS3. Idéal pour progresser en frontend.
 
-![Aperçu du projet](./screenshot.png)
+![Aperçu du projet](./docs/desktop.png)
+![Aperçu du projet](./docs/mobile.png)
 
-**🔗 [Demo en ligne](https://exemple.com)**
+**🔗 [Demo en ligne](https://front-end-mentor-stats-preview-card-vert.vercel.app/)**
 
 ---
 
 ## 🎯 Objectif
 
-[2-3 phrases pour expliquer le contexte. S'il s'agit d'un exercice, précise ce que tu as voulu pratiquer. S'il s'agit d'un clone, indique la source d'inspiration. Reste honnête et précis.]
+Cette exercice permet de consolider les bases de HTML et de CSS.
 
 **Ce que j'ai appris :**
 
-- [Concept ou compétence n°1]
-- [Concept ou compétence n°2]
-- [Concept ou compétence n°3]
+- Les layouts adaptatif avec Flexbox
+- Les filtres sur une image
+- L'approche mobile-first
 
 ---
 
 ## 🛠️ Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
----
-
-## 🚀 Lancer le projet
-
-```bash
-# Cloner le dépôt
-git clone https://github.com/username/nom-du-projet.git
-cd nom-du-projet
-
-# Installer les dépendances
-npm install
-
-# Lancer en développement
-npm run dev
-```
-
-Le projet tourne sur [http://localhost:3000](http://localhost:3000).
+![HTML](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
 
 ---
 
@@ -51,4 +33,4 @@ Le projet tourne sur [http://localhost:3000](http://localhost:3000).
 **Thomas Bezille** — Développeur web à Nantes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bezille/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thomas-Bezille)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thomas-Bezille/)
